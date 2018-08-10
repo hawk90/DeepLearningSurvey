@@ -7,11 +7,21 @@
 	+ Learning Deep Architecture for AI
 
 3. Stochastic Gradien Descent
-	+ Adam
+	+ Nomal Way
+	
+	+ Adaptive Method
+		+ Adam
+		+ AdaGrad
+		+ RMSProp
 	
 2. Convolutional Neural Netwoks(CNN)
 	+ CNN Architecture
-	+ Optimization
+		+ LeNet
+		+ VGG
+		+ GoogleNet
+		+ ResNet
+		+ DenseNet
+
 	+ Regularization
 		+ Dropconnect
 		+ Dropout
@@ -22,6 +32,7 @@
 	+ Understanding Deep Learning Requires Rethinking Generalization
 	+ Generalization in Deep Learning
 	+ Train faster, generalize better: Stability of stochastic gradient descent
+	+ A Guide to Convolutional Arithmetic for Deep Learning
 
 
 
@@ -59,6 +70,10 @@
 2. Distributed System's Concept
 
 # Appendix
+1. Data Set
+	+ MNIST
+	+ LSUN: Construction of a Large-Scale Image Dataset
+using Deep Learning with Humans in the Loop	
 
 
 # Template
