@@ -78,7 +78,7 @@ using Deep Learning with Humans in the Loop
 
 # Template
 1. Review Paper
-2. Precede Study
-3. Target Research
+2. Previous Study
+3. Recent Research
 4. Theortical Study
 5. Variants
