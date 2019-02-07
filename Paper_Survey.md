@@ -43,11 +43,11 @@
 	+ Pros and Cons of GAN Evaluation Measures
 	+ NIPS 2016 Tutorial: Generative Adversarial Networks
 	
-2. Precede Study
+2. Privious Study
 	+ (Boltzmann Machine)
 	+ (Variational AutoEncoder)
 	
-3. Target Study
+3. Recent sStudy
 	+ Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking
 	+ Generative Multi-Adversarial Networks
 	+ Novel and Effective Parallel Mix-Generator Generative Adversarial Networks
