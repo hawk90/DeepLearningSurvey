@@ -43,7 +43,7 @@
 	+ Pros and Cons of GAN Evaluation Measures
 	+ NIPS 2016 Tutorial: Generative Adversarial Networks
 	
-2. Privious Study
+2. Previous Study
 	+ (Boltzmann Machine)
 	+ (Variational AutoEncoder)
 	
