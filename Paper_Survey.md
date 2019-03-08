@@ -39,23 +39,24 @@
 # Part 2. Generative Adversarial Nets
 
 1. Review Paper
-	+ Generative Advsersarial Networks: An overview
-	+ Pros and Cons of GAN Evaluation Measures
-	+ NIPS 2016 Tutorial: Generative Adversarial Networks
-	
-2. Previous Study
-	+ (Boltzmann Machine)
-	+ (Variational AutoEncoder)
-	
-3. Recent sStudy
-	+ Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking
-	+ Generative Multi-Adversarial Networks
-	+ Novel and Effective Parallel Mix-Generator Generative Adversarial Networks
-	+ Generative Adversarial Parallelization
-	+ DeLiGAN: Generative Adversarial Networks for Divers and Limited Data
-	+ SGAN: An Alternative Training of Generative Adversarial Networks
+  + Generative Advsersarial Networks: An overview
+  + Pros and Cons of GAN Evaluation Measures
+  + NIPS 2016 Tutorial: Generative Adversarial Networks
+  + How Generative Adversarial Networks and Their Variants Work: An Overview
 
- 
+2. Previous Study
+  + (Boltzmann Machine)
+  + (Variational AutoEncoder)
+
+3. Recent Study
+  + Gang of GANs: Generative Adversarial Networks with Maximum Margin Ranking
+  + Generative Multi-Adversarial Networks
+  + Novel and Effective Parallel Mix-Generator Generative Adversarial Networks
+  + Generative Adversarial Parallelization
+  + DeLiGAN: Generative Adversarial Networks for Divers and Limited Data
+  + SGAN: An Alternative Training of Generative Adversarial Networks
+
+
 4. Types of GANs
 5. Theortical Study
 	+ Towards Principled Method for Training Generative Adversarial Networks
@@ -73,7 +74,7 @@
 1. Data Set
 	+ MNIST
 	+ LSUN: Construction of a Large-Scale Image Dataset
-using Deep Learning with Humans in the Loop	
+		using Deep Learning with Humans in the Loop	
 
 
 # Template
